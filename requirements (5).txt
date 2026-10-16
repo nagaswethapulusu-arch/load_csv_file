@@ -1,0 +1,3 @@
+pandas>=2.0
+streamlit>=1.36
+jupyter>=1.0
